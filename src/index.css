@@ -1,0 +1,306 @@
+@import "tailwindcss";
+
+@theme {
+  --color-page-bg: #f6fbf5;
+  --color-brand-bg: #f6fbf5;
+  --color-brand-surface: #ffffff;
+  --color-brand-elevated: #ffffff;
+  --color-brand-border: #e5e9e4;
+  --color-brand-border-input: #c2c8be;
+  --color-brand-text: #181d1a;
+  --color-brand-text-body: #424841;
+  --color-brand-muted: #727970;
+  --color-brand-placeholder: #727970;
+  --color-brand-accent: #2f5233;
+  --color-brand-accent-tint: #c4edc3;
+  --color-brand-accent-contrast: #ffffff;
+  --color-brand-alert: #ba1a1a;
+  --color-brand-alert-bg: #ffdad6;
+  --color-brand-amber: #fea047;
+
+  /* Theme tokens */
+  --color-text-primary: #181d1a;
+  --color-text-body: #424841;
+  --color-text-secondary: #727970;
+  --color-cta-solid: #2f5233;
+  --color-cta-solid-text: #ffffff;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Central Design Tokens - Google Stitch BhooTech AI Design System */
+:root {
+  /* Page background */
+  --page-bg: #f6fbf5;
+  --app-bg: #f6fbf5;
+
+  /* Surfaces & Containers */
+  --surface: #f6fbf5;
+  --surface-container-lowest: #ffffff;
+  --surface-container-low: #f0f5f0;
+  --surface-container: #ebefea;
+  --surface-container-high: #e5e9e4;
+  --surface-container-highest: #dfe4df;
+  --inverse-surface: #2c322e;
+  --inverse-on-surface: #edf2ed;
+
+  /* App Card surface tokens */
+  --app-surface: #ffffff;
+  --app-surface-alt: #f0f5f0;
+  --app-surface-hover: #f0f5f0;
+  --app-border: #e5e9e4;
+  --app-border-input: #c2c8be;
+  --app-drawer-active: #c4edc3;
+
+  /* Primary Green Accent */
+  --primary: #183b1e;
+  --primary-container: #2f5233;
+  --on-primary: #ffffff;
+  --primary-fixed: #c4edc3;
+  --primary-fixed-dim: #a9d1a8;
+  --on-primary-fixed: #002108;
+  --app-accent-forest: #2f5233;
+  --app-accent-hover: #183b1e;
+  --app-accent-light: #c4edc3;
+  --app-accent-contrast: #ffffff;
+
+  /* Secondary / Amber */
+  --secondary: #8f4e00;
+  --secondary-container: #fea047;
+  --on-secondary-container: #6d3a00;
+  --secondary-fixed: #ffdcc2;
+  --secondary-fixed-dim: #ffb77a;
+
+  /* Error / Urgent Red */
+  --error: #ba1a1a;
+  --error-container: #ffdad6;
+  --on-error: #ffffff;
+  --on-error-container: #93000a;
+  --alert-red: #ba1a1a;
+  --alert-red-bg: #ffdad6;
+
+  /* Typography & Text */
+  --on-surface: #181d1a;
+  --on-surface-variant: #424841;
+  --outline: #727970;
+  --outline-variant: #c2c8be;
+  --text-primary: #181d1a;
+  --text-body: #424841;
+  --text-secondary: #727970;
+  --text-placeholder: #727970;
+  --app-text-primary: #181d1a;
+  --app-text-secondary: #424841;
+
+  /* Tabs */
+  --tab-active-bg: #2f5233;
+  --tab-active-text: #ffffff;
+  --tab-inactive-bg: #ebefea;
+  --tab-inactive-text: #424841;
+
+  /* Gauge & Track */
+  --gauge-track: #e5e9e4;
+  --gauge-fill: #2f5233;
+
+  /* Radius & Shadows */
+  --radius-card: 12px;
+  --radius-button: 12px;
+  --radius-inner: 8px;
+  --shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+/* Global resets & typography */
+html,
+body,
+#root {
+  background-color: #f6fbf5 !important;
+  color: #181d1a;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar refinement */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #c2c8be;
+  border-radius: 9999px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #727970;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Reusable UI Utility Classes matching Stitch Design */
+.app-card {
+  background-color: #ffffff;
+  border: 1px solid #e5e9e4;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.app-card-sub {
+  background-color: #f0f5f0;
+  border: 1px solid #e5e9e4;
+  border-radius: 8px;
+}
+
+.app-card-alert-amber {
+  background-color: #ffffff;
+  border: 1px solid #e5e9e4;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  position: relative;
+  overflow: hidden;
+}
+.app-card-alert-amber::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background-color: #fea047;
+}
+
+.app-card-alert-red {
+  background-color: #ffffff;
+  border: 1px solid #e5e9e4;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  position: relative;
+  overflow: hidden;
+}
+.app-card-alert-red::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background-color: #ba1a1a;
+}
+
+.app-card-accent-green {
+  background-color: #ffffff;
+  border: 1px solid #e5e9e4;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  position: relative;
+  overflow: hidden;
+}
+.app-card-accent-green::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 5px;
+  background-color: #2f5233;
+}
+
+.btn-primary {
+  background-color: #2f5233;
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 12px;
+  transition: all 150ms ease-in-out;
+}
+.btn-primary:hover {
+  background-color: #183b1e;
+}
+
+.btn-secondary {
+  background-color: #ffffff;
+  color: #2f5233;
+  border: 1px solid #c2c8be;
+  font-weight: 600;
+  border-radius: 12px;
+  transition: all 150ms ease-in-out;
+}
+.btn-secondary:hover {
+  background-color: #f0f5f0;
+}
+
+.input-styled {
+  background-color: #f0f5f0;
+  border: 1px solid #c2c8be;
+  color: #181d1a;
+  border-radius: 12px;
+  height: 52px;
+  transition: all 150ms ease-in-out;
+}
+.input-styled:focus {
+  background-color: #ffffff;
+  border-color: #2f5233;
+  outline: none;
+}
+
+/* Pill Badges */
+.badge-status-optimal {
+  background-color: #c4edc3;
+  color: #002108;
+  font-weight: 700;
+  font-size: 11px;
+  padding: 2px 10px;
+  border-radius: 9999px;
+}
+
+.badge-status-warning {
+  background-color: #fea047;
+  color: #6d3a00;
+  font-weight: 700;
+  font-size: 11px;
+  padding: 2px 10px;
+  border-radius: 9999px;
+}
+
+.badge-status-urgent {
+  background-color: #ffdad6;
+  color: #93000a;
+  font-weight: 700;
+  font-size: 11px;
+  padding: 2px 10px;
+  border-radius: 9999px;
+}
+
+/* ==========================================================================
+   Leaflet Full-Card Isolation & Layering Hierarchy (Bug 1 Fix)
+   ========================================================================== */
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
+  position: relative !important;
+  z-index: 0 !important;
+  isolation: isolate !important;
+  background-color: #f6fbf5 !important;
+  font-family: inherit !important;
+}
+
+/* Elevation & Overlay Hierarchy */
+.z-drawer {
+  z-index: 2000 !important;
+}
+
+.z-modal {
+  z-index: 3000 !important;
+}
+
+.z-toast {
+  z-index: 4000 !important;
+}
+

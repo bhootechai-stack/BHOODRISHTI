@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#022c22" />
+      <stop offset="50%" stop-color="#064e3b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#10b981" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background rounded squircle -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)" stroke="#10b981" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- Orbital radar rings -->
+  <circle cx="32" cy="32" r="22" stroke="#10b981" stroke-width="1" stroke-opacity="0.2" stroke-dasharray="3 3"/>
+  <circle cx="32" cy="32" r="14" stroke="#34d399" stroke-width="1" stroke-opacity="0.25"/>
+
+  <!-- Satellite & Compass Emblem scaled and centered -->
+  <g transform="translate(14, 14) scale(1.5)" filter="url(#glow)">
+    <!-- Signal arc / dish -->
+    <path d="M9 21a6 6 0 0 0-6-6" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Top-left solar wing -->
+    <path d="M13 7 9 3 5 7l4 4" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Bottom-right solar wing -->
+    <path d="m17 11 4 4-4 4-4-4" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Central satellite payload body -->
+    <path d="m8 12 4 4 6-6-4-4Z" fill="#047857" stroke="#6ee7b7" stroke-width="2" stroke-linejoin="round"/>
+    
+    <!-- Communication antenna -->
+    <path d="m16 8 3-3" stroke="#a7f3d0" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Active telemetry pulse dot -->
+  <circle cx="48" cy="16" r="3.5" fill="#34d399"/>
+  <circle cx="48" cy="16" r="5.5" stroke="#34d399" stroke-width="1" stroke-opacity="0.5"/>
+</svg>

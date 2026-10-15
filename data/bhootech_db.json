@@ -1,0 +1,1372 @@
+{
+  "users": [
+    {
+      "id": "user-9876543210",
+      "phone": "9876543210",
+      "dob": "1985-05-15",
+      "name": "Sardar Gurpreet Singh",
+      "kisanId": "PMK-PB-84920",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "village": "Jandiala Guru",
+      "primaryCrop": "Wheat (HD-2967)",
+      "totalLandAcres": 6.2,
+      "createdAt": "2026-08-03T15:41:56.498Z",
+      "lastLogin": "2026-09-02T15:41:56.498Z"
+    },
+    {
+      "id": "user-9822012345",
+      "phone": "9822012345",
+      "dob": "1990-08-22",
+      "name": "Dnyaneshwar Patil",
+      "kisanId": "PMK-MH-33104",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "village": "Dindori",
+      "primaryCrop": "Grapes (Thompson Seedless)",
+      "totalLandAcres": 4.5,
+      "createdAt": "2026-08-13T15:41:56.498Z",
+      "lastLogin": "2026-09-02T15:41:56.498Z"
+    },
+    {
+      "id": "b50bbd21-b418-4097-a116-9cd55e63ea61",
+      "phone": "9861332051",
+      "dob": "1988-04-14",
+      "password": "345b01fdd45fe36a9cb6f363bf7796438f19c22640d914eea95b1d5204ffe5c1",
+      "name": "Sardar Gurpreet Singh",
+      "kisanId": "PMK-PU-97279",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "Khanna",
+      "tehsil": "Khanna",
+      "patwarCircle": "Circle-A4",
+      "village": "New Alour Khurd",
+      "primaryCrop": "Wheat",
+      "totalLandAcres": 10.5,
+      "location": {
+        "lat": 30.7046,
+        "lng": 76.2219,
+        "address": "Alour Village, Khanna Tehsil, Ludhiana, Punjab",
+        "updatedAt": "2026-10-06T09:08:35.316Z"
+      },
+      "createdAt": "2026-10-06T09:08:35.359Z",
+      "lastLogin": "2026-10-06T09:08:35.397Z"
+    },
+    {
+      "id": "224fca92-2544-46c3-ac1a-56c1083be145",
+      "phone": "9852579180",
+      "dob": "1988-04-14",
+      "password": "345b01fdd45fe36a9cb6f363bf7796438f19c22640d914eea95b1d5204ffe5c1",
+      "name": "Sardar Gurpreet Singh",
+      "kisanId": "PMK-PU-11325",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "Khanna",
+      "tehsil": "Khanna",
+      "patwarCircle": "Circle-A4",
+      "village": "New Alour Khurd",
+      "primaryCrop": "Wheat",
+      "totalLandAcres": 10.5,
+      "location": {
+        "lat": 30.7046,
+        "lng": 76.2219,
+        "address": "Alour Village, Khanna Tehsil, Ludhiana, Punjab",
+        "updatedAt": "2026-10-06T09:09:40.505Z"
+      },
+      "createdAt": "2026-10-06T09:09:40.532Z",
+      "lastLogin": "2026-10-06T09:09:40.551Z"
+    },
+    {
+      "id": "722932c4-00de-4566-a37d-bd0f15d34865",
+      "phone": "9812345678",
+      "dob": "1984-04-12",
+      "password": "338f095a4f1bf05f83ed56f29faf3f9b5d77123c4be8d6d6ca70371f9c80078d",
+      "name": "Balwinder Singh",
+      "kisanId": "PMK-PU-72427",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "Samrala",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "village": "Chawa",
+      "primaryCrop": "Basmati Rice",
+      "totalLandAcres": 7.2,
+      "location": {
+        "lat": 30.833,
+        "lng": 76.191,
+        "address": "Village Chawa, Tehsil Samrala, Ludhiana, Punjab",
+        "updatedAt": "2026-10-06T09:21:20.975Z"
+      },
+      "createdAt": "2026-10-06T09:21:20.976Z",
+      "lastLogin": "2026-10-06T09:21:22.568Z"
+    },
+    {
+      "id": "879453ca-58cc-4251-a301-8ede2059586b",
+      "phone": "9898701413",
+      "dob": "1984-04-12",
+      "password": "338f095a4f1bf05f83ed56f29faf3f9b5d77123c4be8d6d6ca70371f9c80078d",
+      "name": "Balwinder Singh",
+      "kisanId": "PMK-PU-89055",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "Samrala",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "village": "Chawa",
+      "primaryCrop": "Basmati Rice",
+      "totalLandAcres": 7.2,
+      "location": {
+        "lat": 30.833,
+        "lng": 76.191,
+        "address": "Village Chawa, Tehsil Samrala, Ludhiana, Punjab",
+        "updatedAt": "2026-10-06T09:23:10.847Z"
+      },
+      "createdAt": "2026-10-06T09:23:10.847Z",
+      "lastLogin": "2026-10-06T09:23:12.440Z"
+    },
+    {
+      "id": "d48dcdf8-29ec-43fa-adab-ec5ec7be02fa",
+      "phone": "9891413809",
+      "dob": "1984-04-12",
+      "password": "338f095a4f1bf05f83ed56f29faf3f9b5d77123c4be8d6d6ca70371f9c80078d",
+      "name": "Balwinder Singh",
+      "kisanId": "PMK-PU-27509",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "Samrala",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "village": "Chawa",
+      "primaryCrop": "Basmati Rice",
+      "totalLandAcres": 7.2,
+      "location": {
+        "lat": 30.833,
+        "lng": 76.191,
+        "address": "Village Chawa, Tehsil Samrala, Ludhiana, Punjab",
+        "updatedAt": "2026-10-06T09:26:16.284Z"
+      },
+      "createdAt": "2026-10-06T09:26:16.285Z",
+      "lastLogin": "2026-10-06T09:26:17.910Z"
+    },
+    {
+      "id": "1323e2ba-3c93-44d4-a5a4-d90cb580ddbd",
+      "phone": "9839770735",
+      "dob": "1984-04-12",
+      "password": "338f095a4f1bf05f83ed56f29faf3f9b5d77123c4be8d6d6ca70371f9c80078d",
+      "name": "Balwinder Singh",
+      "kisanId": "PMK-PU-83104",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "Samrala",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "village": "Chawa",
+      "primaryCrop": "Basmati Rice",
+      "totalLandAcres": 7.2,
+      "location": {
+        "lat": 30.833,
+        "lng": 76.191,
+        "address": "Village Chawa, Tehsil Samrala, Ludhiana, Punjab",
+        "updatedAt": "2026-10-06T09:28:05.350Z"
+      },
+      "createdAt": "2026-10-06T09:28:05.351Z",
+      "lastLogin": "2026-10-06T09:28:06.950Z"
+    },
+    {
+      "id": "bfc1dc7f-5ffd-422e-a9ed-37e01c0f0cd6",
+      "phone": "9824850425",
+      "dob": "1988-06-20",
+      "password": "67c8dc5454ab456fa4566ca790293d6d2479d66c98a8418e06d52c03eaa71092",
+      "name": "Gurpreet Singh",
+      "kisanId": "PMK-PU-11398",
+      "state": "Punjab",
+      "district": "Patiala",
+      "city": "Nabha",
+      "tehsil": "Nabha",
+      "patwarCircle": "Sector-3A",
+      "village": "Rohti Chhanna",
+      "primaryCrop": "Mustard",
+      "totalLandAcres": 6,
+      "location": {
+        "lat": 30.375,
+        "lng": 76.152,
+        "address": "Rohti Chhanna, Nabha, Patiala"
+      },
+      "createdAt": "2026-10-06T09:42:34.762Z",
+      "lastLogin": "2026-10-06T09:42:34.809Z"
+    },
+    {
+      "id": "20e405b3-ad58-4771-a873-a5df68712e6b",
+      "phone": "6397921729",
+      "dob": "1994-01-19",
+      "password": "3ece8743fb13f05c2b0247bd75eac44216262c3fae9d583fff6b94a651eda6fc",
+      "name": "devinder kumar",
+      "kisanId": "PMK-HI-88000",
+      "state": "Himachal Pradesh",
+      "district": "Kangra",
+      "city": "Nagrota Bagwan",
+      "tehsil": "",
+      "patwarCircle": "",
+      "village": "",
+      "primaryCrop": "Wheat",
+      "totalLandAcres": 2.19,
+      "location": {
+        "lat": 31.1048,
+        "lng": 77.1734,
+        "address": "Malhanwara, Chhindwara, Madhya Pradesh, India",
+        "updatedAt": "2026-10-08T17:18:23.477Z"
+      },
+      "createdAt": "2026-10-08T17:18:27.986Z",
+      "lastLogin": "2026-10-08T17:18:29.923Z"
+    },
+    {
+      "id": "c8d3b1f6-9f48-4be2-a268-cf614827a169",
+      "phone": "9753124680",
+      "dob": "1992-04-20",
+      "password": "03019dc60a23e878ee05d5be524fc0d7136c17f0bc2ede642adf1f3d97a9465b",
+      "name": "BHOOTECH DB TEST",
+      "kisanId": "PMK-PU-64686",
+      "state": "Punjab",
+      "district": "Patiala",
+      "city": "",
+      "tehsil": "",
+      "patwarCircle": "",
+      "village": "Nabha Central",
+      "primaryCrop": "Wheat (PBW-725)",
+      "totalLandAcres": 3.2,
+      "createdAt": "2026-10-08T17:43:46.098Z",
+      "lastLogin": "2026-10-08T17:44:11.008Z"
+    },
+    {
+      "id": "e2dcdd09-c37e-4866-a6e7-53ecd490733a",
+      "phone": "9897456784",
+      "dob": "1999-08-04",
+      "password": "b102bfef7c734101dc21efc3013e8db59cafa67032ea2ba1b439b48ebc189509",
+      "name": "ram",
+      "kisanId": "PMK-HI-98038",
+      "state": "Himachal Pradesh",
+      "district": "Kangra",
+      "city": "Och",
+      "tehsil": "",
+      "patwarCircle": "",
+      "village": "",
+      "primaryCrop": "Wheat",
+      "totalLandAcres": 3.5,
+      "location": {
+        "lat": 32.091187,
+        "lng": 76.395065,
+        "address": "Och, Kangra, Himachal Pradesh, India",
+        "updatedAt": "2026-10-15T14:19:08.810Z"
+      },
+      "createdAt": "2026-10-15T14:19:08.796Z",
+      "lastLogin": "2026-10-15T14:19:08.796Z"
+    },
+    {
+      "id": "477668a5-a74e-44e4-af91-90c9748b1533",
+      "phone": "9999931638",
+      "dob": "1982-05-14",
+      "password": "cf0f1eda78f79c8a6aa93ebfd0109113b0128c6409266bf8cad419ac31938e86",
+      "name": "Sardar Baldev Singh",
+      "kisanId": "PMK-PU-91724",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "",
+      "tehsil": "",
+      "patwarCircle": "",
+      "village": "Gill",
+      "primaryCrop": "Wheat",
+      "totalLandAcres": 4.5,
+      "createdAt": "2026-10-15T14:37:53.592Z",
+      "lastLogin": "2026-10-15T14:37:53.592Z"
+    },
+    {
+      "id": "20360fa2-9ae5-4173-ac04-73fd111a06fb",
+      "phone": "9999988582",
+      "dob": "1982-05-14",
+      "password": "cf0f1eda78f79c8a6aa93ebfd0109113b0128c6409266bf8cad419ac31938e86",
+      "name": "Sardar Baldev Singh",
+      "kisanId": "PMK-PU-17477",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "city": "",
+      "tehsil": "",
+      "patwarCircle": "",
+      "village": "Gill",
+      "primaryCrop": "Mustard",
+      "totalLandAcres": 4.5,
+      "createdAt": "2026-10-15T14:38:18.900Z",
+      "lastLogin": "2026-10-15T14:38:18.909Z"
+    },
+    {
+      "id": "065d0887-291c-4515-a05a-8f347e63724f",
+      "phone": "9888892591",
+      "dob": "1985-06-20",
+      "password": "3f27e5e81043b01c79edc9c227e2a93acbca8fb3b6665a12874501cef02677c1",
+      "name": "Verification Test User",
+      "kisanId": "PMK-PU-42053",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "city": "",
+      "tehsil": "",
+      "patwarCircle": "",
+      "village": "",
+      "primaryCrop": "Wheat",
+      "totalLandAcres": 3.5,
+      "createdAt": "2026-10-15T14:49:20.246Z",
+      "lastLogin": "2026-10-15T14:49:20.246Z"
+    }
+  ],
+  "farms": [
+    {
+      "userId": "user-9876543210",
+      "name": "North Wheat Acre",
+      "farmerName": "Ramesh Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "crop": "Wheat",
+      "areaAcres": 3.5,
+      "areaSqm": 14164,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.9,
+          "lng": 75.85
+        },
+        {
+          "lat": 30.91,
+          "lng": 75.85
+        },
+        {
+          "lat": 30.91,
+          "lng": 75.86
+        }
+      ],
+      "center": {
+        "lat": 30.905,
+        "lng": 75.855
+      },
+      "id": "f1822c85-8535-45e4-9133-70b795c5732d",
+      "createdAt": "2026-10-15T15:00:43.765Z"
+    },
+    {
+      "userId": "065d0887-291c-4515-a05a-8f347e63724f",
+      "name": "Test Land Parcel",
+      "farmerName": "Verification Test User",
+      "state": "Punjab",
+      "district": "",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.5,
+      "areaSqm": 10117,
+      "healthScore": 85,
+      "points": [
+        {
+          "lat": 31.63,
+          "lng": 74.87
+        },
+        {
+          "lat": 31.64,
+          "lng": 74.88
+        },
+        {
+          "lat": 31.63,
+          "lng": 74.89
+        }
+      ],
+      "center": {
+        "lat": 31.63,
+        "lng": 74.87
+      },
+      "notes": "",
+      "id": "32761786-4bfd-4202-b97f-0944d25885c9",
+      "createdAt": "2026-10-15T14:49:21.481Z"
+    },
+    {
+      "userId": "undefined",
+      "name": "Ludhiana South Field",
+      "farmerName": "Sardar Baldev Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.2,
+      "areaSqm": 12950,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.901,
+          "lng": 75.857
+        },
+        {
+          "lat": 30.903,
+          "lng": 75.859
+        },
+        {
+          "lat": 30.901,
+          "lng": 75.861
+        }
+      ],
+      "center": {
+        "lat": 30.901,
+        "lng": 75.857
+      },
+      "notes": "",
+      "id": "53e1779a-9958-4725-bf90-a9c037fdfd08",
+      "createdAt": "2026-10-15T14:37:54.168Z"
+    },
+    {
+      "userId": "c8d3b1f6-9f48-4be2-a268-cf614827a169",
+      "name": "Nabha Golden Wheat Farm 1",
+      "farmerName": "BHOOTECH DB TEST",
+      "state": "Punjab",
+      "district": "Patiala",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.2,
+      "areaSqm": 12950,
+      "healthScore": 89,
+      "points": [
+        {
+          "lat": 30.375,
+          "lng": 76.152
+        },
+        {
+          "lat": 30.377,
+          "lng": 76.152
+        },
+        {
+          "lat": 30.377,
+          "lng": 76.155
+        },
+        {
+          "lat": 30.375,
+          "lng": 76.155
+        }
+      ],
+      "center": {
+        "lat": 30.376,
+        "lng": 76.1535
+      },
+      "notes": "Main wheat cultivation plot in Nabha",
+      "id": "63650932-c679-4cfc-a2cb-681abdce1ce4",
+      "createdAt": "2026-10-08T17:44:10.283Z"
+    },
+    {
+      "userId": "c8d3b1f6-9f48-4be2-a268-cf614827a169",
+      "name": "Nabha Wheat Plot A",
+      "farmerName": "Devinder Singh",
+      "state": "Punjab",
+      "district": "Patiala",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.2,
+      "areaSqm": 10117,
+      "healthScore": 85,
+      "points": [
+        {
+          "lat": 30.375,
+          "lng": 76.152
+        },
+        {
+          "lat": 30.377,
+          "lng": 76.155
+        },
+        {
+          "lat": 30.373,
+          "lng": 76.156
+        }
+      ],
+      "center": {
+        "lat": 30.375,
+        "lng": 76.152
+      },
+      "notes": "",
+      "id": "172637ed-bfa6-46c6-9fbf-33b8cf955cb3",
+      "createdAt": "2026-10-08T10:22:44.211Z"
+    },
+    {
+      "userId": "bfc1dc7f-5ffd-422e-a9ed-37e01c0f0cd6",
+      "name": "South Mustard Field",
+      "farmerName": "Gurpreet Singh",
+      "state": "Punjab",
+      "district": "",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Mustard",
+      "areaAcres": 3.5,
+      "areaSqm": 10117,
+      "healthScore": 85,
+      "points": [
+        {
+          "lat": 30.375,
+          "lng": 76.152
+        },
+        {
+          "lat": 30.376,
+          "lng": 76.155
+        },
+        {
+          "lat": 30.373,
+          "lng": 76.154
+        }
+      ],
+      "center": {
+        "lat": 30.375,
+        "lng": 76.152
+      },
+      "notes": "",
+      "id": "047a898c-6907-410e-9541-43f59abd1cc0",
+      "createdAt": "2026-10-06T09:42:34.824Z"
+    },
+    {
+      "userId": "1323e2ba-3c93-44d4-a5a4-d90cb580ddbd",
+      "name": "North Wheat Field Block A",
+      "farmerName": "Balwinder Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "crop": "Wheat",
+      "areaAcres": 4.5,
+      "areaSqm": 18210,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.833,
+          "lng": 76.191
+        },
+        {
+          "lat": 30.835,
+          "lng": 76.194
+        },
+        {
+          "lat": 30.831,
+          "lng": 76.196
+        }
+      ],
+      "center": {
+        "lat": 30.833,
+        "lng": 76.193
+      },
+      "notes": "Well-irrigated alluvial soil",
+      "id": "56b8e995-aabe-495a-b8fe-1675993aea82",
+      "createdAt": "2026-10-06T09:28:06.951Z"
+    },
+    {
+      "userId": "d48dcdf8-29ec-43fa-adab-ec5ec7be02fa",
+      "name": "North Wheat Field Block A",
+      "farmerName": "Balwinder Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "crop": "Wheat",
+      "areaAcres": 4.5,
+      "areaSqm": 18210,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.833,
+          "lng": 76.191
+        },
+        {
+          "lat": 30.835,
+          "lng": 76.194
+        },
+        {
+          "lat": 30.831,
+          "lng": 76.196
+        }
+      ],
+      "center": {
+        "lat": 30.833,
+        "lng": 76.193
+      },
+      "notes": "Well-irrigated alluvial soil",
+      "id": "5b86402d-a2d0-454a-ae3b-54dc6d7ab5c4",
+      "createdAt": "2026-10-06T09:26:17.912Z"
+    },
+    {
+      "userId": "879453ca-58cc-4251-a301-8ede2059586b",
+      "name": "North Wheat Field Block A",
+      "farmerName": "Balwinder Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "crop": "Wheat",
+      "areaAcres": 4.5,
+      "areaSqm": 18210,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.833,
+          "lng": 76.191
+        },
+        {
+          "lat": 30.835,
+          "lng": 76.194
+        },
+        {
+          "lat": 30.831,
+          "lng": 76.196
+        }
+      ],
+      "center": {
+        "lat": 30.833,
+        "lng": 76.193
+      },
+      "notes": "Well-irrigated alluvial soil",
+      "id": "a2dd3231-9175-4283-86ba-5b9a3f3d1b10",
+      "createdAt": "2026-10-06T09:23:12.441Z"
+    },
+    {
+      "userId": "722932c4-00de-4566-a37d-bd0f15d34865",
+      "name": "North Wheat Field Block A",
+      "farmerName": "Balwinder Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "Samrala",
+      "patwarCircle": "Circle-4B",
+      "crop": "Wheat",
+      "areaAcres": 4.5,
+      "areaSqm": 18210,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.833,
+          "lng": 76.191
+        },
+        {
+          "lat": 30.835,
+          "lng": 76.194
+        },
+        {
+          "lat": 30.831,
+          "lng": 76.196
+        }
+      ],
+      "center": {
+        "lat": 30.833,
+        "lng": 76.193
+      },
+      "notes": "Well-irrigated alluvial soil",
+      "id": "66a5d99c-b12a-4e57-b99d-51e228402ed8",
+      "createdAt": "2026-10-06T09:21:22.569Z"
+    },
+    {
+      "userId": "224fca92-2544-46c3-ac1a-56c1083be145",
+      "name": "Khanna North Precision Plot",
+      "farmerName": "Sardar Gurpreet Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "Khanna",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 5.2,
+      "areaSqm": 21043,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.7046,
+          "lng": 76.2219
+        },
+        {
+          "lat": 30.706,
+          "lng": 76.224
+        },
+        {
+          "lat": 30.7035,
+          "lng": 76.2255
+        }
+      ],
+      "center": {
+        "lat": 30.7047,
+        "lng": 76.2238
+      },
+      "notes": "High-yield Sharbati wheat under active drip management",
+      "id": "906f8124-f4eb-49f2-a697-93144a21aa6b",
+      "createdAt": "2026-10-06T09:09:40.557Z"
+    },
+    {
+      "userId": "b50bbd21-b418-4097-a116-9cd55e63ea61",
+      "name": "Khanna North Precision Plot",
+      "farmerName": "Sardar Gurpreet Singh",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "Khanna",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 5.2,
+      "areaSqm": 21043,
+      "healthScore": 88,
+      "points": [
+        {
+          "lat": 30.7046,
+          "lng": 76.2219
+        },
+        {
+          "lat": 30.706,
+          "lng": 76.224
+        },
+        {
+          "lat": 30.7035,
+          "lng": 76.2255
+        }
+      ],
+      "center": {
+        "lat": 30.7047,
+        "lng": 76.2238
+      },
+      "notes": "High-yield Sharbati wheat under active drip management",
+      "id": "d017b037-a482-4ded-8db6-f4501a204577",
+      "createdAt": "2026-10-06T09:08:35.405Z"
+    },
+    {
+      "userId": "guest-farmer",
+      "name": "Guest Farm Parcel",
+      "farmerName": "Guest Landholder",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Paddy",
+      "areaAcres": 1.8,
+      "areaSqm": 10117,
+      "healthScore": 85,
+      "points": [
+        {
+          "lat": 30.9,
+          "lng": 75.85
+        },
+        {
+          "lat": 30.91,
+          "lng": 75.86
+        },
+        {
+          "lat": 30.89,
+          "lng": 75.87
+        }
+      ],
+      "center": {
+        "lat": 30.9,
+        "lng": 75.85
+      },
+      "notes": "",
+      "id": "c86549f3-07ab-4239-be6c-301930d9dc7a",
+      "createdAt": "2026-09-02T16:44:15.111Z"
+    },
+    {
+      "userId": "user-9911951480",
+      "name": "Green Fields Amritsar",
+      "farmerName": "navi",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.2,
+      "areaSqm": 10117,
+      "healthScore": 85,
+      "points": [
+        {
+          "lat": 31.634,
+          "lng": 74.872
+        },
+        {
+          "lat": 31.638,
+          "lng": 74.876
+        },
+        {
+          "lat": 31.632,
+          "lng": 74.879
+        }
+      ],
+      "center": {
+        "lat": 31.634,
+        "lng": 74.872
+      },
+      "notes": "",
+      "id": "442f49c2-ce64-4222-a33a-817d20b4b395",
+      "createdAt": "2026-09-02T16:44:01.952Z"
+    },
+    {
+      "userId": "00000000-0000-4000-8000-000000000000",
+      "name": "farm1",
+      "farmerName": "navi",
+      "state": "Himachal Pradesh",
+      "district": "Nagrota Bagwan",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.477,
+      "areaSqm": 14072.86,
+      "healthScore": 65,
+      "points": [
+        {
+          "lat": 32.091387824127644,
+          "lng": 76.39456949410331,
+          "id": 1
+        },
+        {
+          "lat": 32.09144127929898,
+          "lng": 76.39583141009699,
+          "id": 2
+        },
+        {
+          "lat": 32.090388212423754,
+          "lng": 76.39591343463658,
+          "id": 3
+        },
+        {
+          "lat": 32.09032406621816,
+          "lng": 76.3946515186429,
+          "id": 4
+        }
+      ],
+      "center": {
+        "lat": 32.090885,
+        "lng": 76.395241
+      },
+      "notes": "",
+      "id": "1fae6b2a-65d2-4935-87b2-15ec9db94cf7",
+      "createdAt": "2026-09-02T16:35:48.558Z"
+    },
+    {
+      "userId": "00000000-0000-4000-8000-000000000000",
+      "name": "farm1",
+      "farmerName": "navi",
+      "state": "Himachal Pradesh",
+      "district": "Nagrota Bagwan",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.477,
+      "areaSqm": 14072.86,
+      "healthScore": 65,
+      "points": [
+        {
+          "lat": 32.091387824127644,
+          "lng": 76.39456949410331,
+          "id": 1
+        },
+        {
+          "lat": 32.09144127929898,
+          "lng": 76.39583141009699,
+          "id": 2
+        },
+        {
+          "lat": 32.090388212423754,
+          "lng": 76.39591343463658,
+          "id": 3
+        },
+        {
+          "lat": 32.09032406621816,
+          "lng": 76.3946515186429,
+          "id": 4
+        }
+      ],
+      "center": {
+        "lat": 32.090885,
+        "lng": 76.395241
+      },
+      "notes": "",
+      "id": "7eed57d1-c8aa-46f3-a227-651f349f75d5",
+      "createdAt": "2026-09-02T16:34:38.478Z"
+    },
+    {
+      "userId": "00000000-0000-4000-8000-000000000000",
+      "name": "farm1",
+      "farmerName": "navi",
+      "state": "Himachal Pradesh",
+      "district": "Nagrota Bagwan",
+      "tehsil": "",
+      "patwarCircle": "",
+      "crop": "Wheat",
+      "areaAcres": 3.477,
+      "areaSqm": 14072.86,
+      "healthScore": 67,
+      "points": [
+        {
+          "lat": 32.091423824127645,
+          "lng": 76.3944914938423,
+          "id": 1
+        },
+        {
+          "lat": 32.09147727929898,
+          "lng": 76.39575341033317,
+          "id": 2
+        },
+        {
+          "lat": 32.090424212423756,
+          "lng": 76.39583543490508,
+          "id": 3
+        },
+        {
+          "lat": 32.09036006621816,
+          "lng": 76.3945735184142,
+          "id": 4
+        }
+      ],
+      "center": {
+        "lat": 32.090921,
+        "lng": 76.395163
+      },
+      "notes": "",
+      "id": "8f048edd-262b-49dc-bd79-0c86f4a24e14",
+      "createdAt": "2026-09-02T16:15:42.717Z"
+    },
+    {
+      "id": "farm-pb-01",
+      "userId": "user-9876543210",
+      "name": "Amritsar Golden Wheat Plot 4B",
+      "farmerName": "Sardar Gurpreet Singh",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "crop": "Wheat (HD-2967)",
+      "areaAcres": 3.8,
+      "areaSqm": 15378,
+      "healthScore": 88,
+      "center": {
+        "lat": 31.634,
+        "lng": 74.8723
+      },
+      "points": [
+        {
+          "lat": 31.636,
+          "lng": 74.8703
+        },
+        {
+          "lat": 31.636,
+          "lng": 74.8743
+        },
+        {
+          "lat": 31.632,
+          "lng": 74.8743
+        },
+        {
+          "lat": 31.632,
+          "lng": 74.8703
+        }
+      ],
+      "createdAt": "2026-08-30T15:41:56.498Z",
+      "notes": "Optimum vegetative stage. Zero tillage adopted this Rabi season."
+    },
+    {
+      "id": "farm-pb-02",
+      "userId": "user-9876543210",
+      "name": "Canal Ridge Mustard Seed Block",
+      "farmerName": "Sardar Gurpreet Singh",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "crop": "Mustard (Giriraj)",
+      "areaAcres": 2.4,
+      "areaSqm": 9712,
+      "healthScore": 91,
+      "center": {
+        "lat": 31.641,
+        "lng": 74.881
+      },
+      "points": [
+        {
+          "lat": 31.643,
+          "lng": 74.879
+        },
+        {
+          "lat": 31.643,
+          "lng": 74.883
+        },
+        {
+          "lat": 31.639,
+          "lng": 74.883
+        },
+        {
+          "lat": 31.639,
+          "lng": 74.879
+        }
+      ],
+      "createdAt": "2026-09-01T15:41:56.498Z",
+      "notes": "Flowering stage. Soil moisture optimal."
+    },
+    {
+      "id": "farm-mh-02",
+      "userId": "user-9822012345",
+      "name": "Nashik Sahyadri Grape Vineyard",
+      "farmerName": "Dnyaneshwar Patil",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "crop": "Grapes (Thompson Seedless)",
+      "areaAcres": 2.4,
+      "areaSqm": 9712,
+      "healthScore": 76,
+      "center": {
+        "lat": 19.9975,
+        "lng": 73.7898
+      },
+      "points": [
+        {
+          "lat": 19.9995,
+          "lng": 73.7878
+        },
+        {
+          "lat": 19.9995,
+          "lng": 73.7918
+        },
+        {
+          "lat": 19.9955,
+          "lng": 73.7918
+        },
+        {
+          "lat": 19.9955,
+          "lng": 73.7878
+        }
+      ],
+      "createdAt": "2026-08-28T15:41:56.498Z",
+      "notes": "Micro-sprinkler fertigation installed. Monitoring for downy mildew."
+    }
+  ],
+  "diagnostics": [
+    {
+      "userId": "user-9876543210",
+      "farmId": "f1822c85-8535-45e4-9133-70b795c5732d",
+      "crop": "Wheat",
+      "diseaseName": "Yellow Rust",
+      "severity": "Mild",
+      "confidence": 94,
+      "symptoms": [
+        "Yellow pustules on upper leaf surface",
+        "Stripe pattern along veins"
+      ],
+      "remedyType": "both",
+      "id": "diag-mv9o1mym-lv68",
+      "createdAt": "2026-10-15T15:00:45.310Z"
+    },
+    {
+      "userId": "065d0887-291c-4515-a05a-8f347e63724f",
+      "farmId": "32761786-4bfd-4202-b97f-0944d25885c9",
+      "crop": "Wheat",
+      "diseaseName": "Leaf Rust",
+      "severity": "Low",
+      "confidence": 90,
+      "symptoms": [],
+      "remedyType": "both",
+      "id": "diag-mv9nn1qq-mqvd",
+      "createdAt": "2026-10-15T14:49:24.626Z"
+    },
+    {
+      "userId": "20360fa2-9ae5-4173-ac04-73fd111a06fb",
+      "farmId": "5c695a1e-fda9-4033-a1e1-e725f939816d",
+      "crop": "Wheat",
+      "diseaseName": "Yellow Rust (Puccinia striiformis)",
+      "severity": "Moderate",
+      "confidence": 94,
+      "symptoms": [
+        "Chlorotic yellow stripes",
+        "Linear pustules"
+      ],
+      "remedyType": "both",
+      "id": "diag-mv9n8sg2-y9pv",
+      "createdAt": "2026-10-15T14:38:19.394Z"
+    },
+    {
+      "userId": "undefined",
+      "crop": "Wheat",
+      "diseaseName": "Yellow Rust (Puccinia striiformis)",
+      "severity": "Moderate",
+      "confidence": 94,
+      "symptoms": [
+        "Chlorotic yellow stripes",
+        "Linear pustules"
+      ],
+      "remedyType": "both",
+      "id": "diag-mv9n89h2-xx01",
+      "createdAt": "2026-10-15T14:37:54.806Z"
+    },
+    {
+      "userId": "c8d3b1f6-9f48-4be2-a268-cf614827a169",
+      "farmId": "63650932-c679-4cfc-a2cb-681abdce1ce4",
+      "crop": "Wheat",
+      "diseaseName": "Yellow Rust Early Warning",
+      "severity": "Low",
+      "confidence": 96.5,
+      "symptoms": [
+        "Slight chlorosis on flag leaves"
+      ],
+      "remedyType": "organic",
+      "id": "diag-muztsvey-p240",
+      "createdAt": "2026-10-08T17:44:12.298Z"
+    },
+    {
+      "userId": "bfc1dc7f-5ffd-422e-a9ed-37e01c0f0cd6",
+      "crop": "Mustard",
+      "diseaseName": "White Rust (Albugo candida)",
+      "severity": "Low",
+      "confidence": 92,
+      "symptoms": [],
+      "remedyType": "both",
+      "id": "diag-muwhptdi-lhqr",
+      "createdAt": "2026-10-06T09:42:35.766Z"
+    },
+    {
+      "userId": "224fca92-2544-46c3-ac1a-56c1083be145",
+      "farmId": "906f8124-f4eb-49f2-a697-93144a21aa6b",
+      "crop": "Wheat",
+      "diseaseName": "Yellow Rust (Puccinia striiformis)",
+      "severity": "Low",
+      "confidence": 94,
+      "symptoms": [
+        "linear yellow stripes on foliage",
+        "pustule formation"
+      ],
+      "remedyType": "organic",
+      "id": "diag-muwglai4-78nh",
+      "createdAt": "2026-10-06T09:11:05.068Z"
+    },
+    {
+      "id": "diag-001",
+      "userId": "user-9876543210",
+      "farmId": "farm-pb-01",
+      "crop": "Wheat",
+      "diseaseName": "Yellow Stripe Rust (Puccinia striiformis)",
+      "severity": "Medium",
+      "confidence": 94.2,
+      "symptoms": [
+        "Parallel bright yellow pustules along leaf veins",
+        "Chlorotic striping on upper flag leaves"
+      ],
+      "remedyType": "both",
+      "createdAt": "2026-08-31T15:41:56.498Z"
+    }
+  ],
+  "advisories": [
+    {
+      "userId": "user-9876543210",
+      "farmName": "North Wheat Acre",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 3.5,
+      "summary": "Apply 25kg/acre urea during CRI stage.",
+      "id": "adv-mv9o1mtc-zpr0",
+      "createdAt": "2026-10-15T15:00:45.120Z"
+    },
+    {
+      "userId": "065d0887-291c-4515-a05a-8f347e63724f",
+      "farmName": "Test Land Parcel",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 3.5,
+      "summary": "Irrigation test advisory",
+      "irrigationSchedule": "Morning irrigation cycle",
+      "nitrogenRecommendation": "Standard fertilizer dose",
+      "id": "adv-mv9nn1dv-qwfc",
+      "createdAt": "2026-10-15T14:49:24.163Z"
+    },
+    {
+      "userId": "20360fa2-9ae5-4173-ac04-73fd111a06fb",
+      "farmName": "Ludhiana South Field",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 3.2,
+      "summary": "Apply Propiconazole 25% EC at 0.1% spray to arrest yellow rust progression.",
+      "irrigationSchedule": "Schedule irrigation after 48h fungicide application",
+      "nitrogenRecommendation": "Hold nitrogen until leaf lesions stabilize",
+      "id": "adv-mv9n8sp0-pndj",
+      "createdAt": "2026-10-15T14:38:19.716Z"
+    },
+    {
+      "userId": "undefined",
+      "farmName": "Ludhiana South Field",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 3.2,
+      "summary": "Apply Propiconazole 25% EC at 0.1% spray to arrest yellow rust progression.",
+      "irrigationSchedule": "Schedule irrigation after 48h fungicide application",
+      "nitrogenRecommendation": "Hold nitrogen until leaf lesions stabilize",
+      "id": "adv-mv9n89qs-gowq",
+      "createdAt": "2026-10-15T14:37:55.156Z"
+    },
+    {
+      "userId": "c8d3b1f6-9f48-4be2-a268-cf614827a169",
+      "farmName": "Nabha Golden Wheat Farm 1",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 3.2,
+      "summary": "Optimal soil moisture detected. Apply light irrigation before flowering stage.",
+      "irrigationSchedule": "40mm in morning cycle",
+      "nitrogenRecommendation": "15kg Urea per acre with foliar zinc",
+      "id": "adv-muztsvri-x5jg",
+      "createdAt": "2026-10-08T17:44:12.750Z"
+    },
+    {
+      "userId": "bfc1dc7f-5ffd-422e-a9ed-37e01c0f0cd6",
+      "farmName": "South Mustard Field",
+      "crop": "Mustard",
+      "state": "Punjab",
+      "areaAcres": 2.5,
+      "summary": "Apply Ridomil MZ @ 2g/L for preventive control of white rust.",
+      "irrigationSchedule": "Morning irrigation cycle",
+      "nitrogenRecommendation": "Standard fertilizer dose",
+      "id": "adv-muwhpto7-0ldc",
+      "createdAt": "2026-10-06T09:42:36.151Z"
+    },
+    {
+      "userId": "224fca92-2544-46c3-ac1a-56c1083be145",
+      "farmName": "Khanna North Precision Plot",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 5.2,
+      "summary": "Balanced soil nutrient profile with favorable rain forecast",
+      "irrigationSchedule": "Irrigation paused due to 20% rain probability",
+      "nitrogenRecommendation": "Split application of Urea 20kg/acre recommended",
+      "id": "adv-muwglqsx-fexc",
+      "createdAt": "2026-10-06T09:11:26.193Z"
+    },
+    {
+      "id": "adv-001",
+      "userId": "user-9876543210",
+      "farmName": "Amritsar Golden Wheat Plot 4B",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "areaAcres": 3.8,
+      "summary": "88% canopy vigor detected via NDRE satellite index.",
+      "irrigationSchedule": "30mm evening sprinkler run recommended.",
+      "nitrogenRecommendation": "Split-dose 22 kg/acre Urea with zinc sulphate foliar booster.",
+      "createdAt": "2026-08-31T15:41:56.498Z"
+    }
+  ],
+  "meta": {
+    "version": "1.2.0-user-auth",
+    "lastUpdated": "2026-10-15T15:00:45.310Z",
+    "totalSyncCount": 80
+  },
+  "reports": [
+    {
+      "userId": "user-9876543210",
+      "farmId": "f1822c85-8535-45e4-9133-70b795c5732d",
+      "farmName": "North Wheat Acre",
+      "farmerName": "Ramesh Singh",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "areaAcres": 3.5,
+      "areaSqm": 14164,
+      "healthScore": 88,
+      "advisorySummary": "Optimum nitrogen levels; schedule light irrigation in 48 hours.",
+      "id": "report-mv9o1mn7-na0p",
+      "createdAt": "2026-10-15T15:00:44.899Z"
+    },
+    {
+      "userId": "065d0887-291c-4515-a05a-8f347e63724f",
+      "farmId": "32761786-4bfd-4202-b97f-0944d25885c9",
+      "farmName": "Test Land Parcel",
+      "farmerName": "Verification Test User",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "district": "",
+      "areaAcres": 3.5,
+      "areaSqm": 14164.01,
+      "healthScore": 85,
+      "advisorySummary": "Agronomic health assessment",
+      "irrigationSchedule": "Standard irrigation",
+      "fertilizerRecommendation": "Balanced N-P-K",
+      "pestRisk": "Low",
+      "id": "report-mv9nn114-qxzp",
+      "createdAt": "2026-10-15T14:49:23.704Z"
+    },
+    {
+      "userId": "20360fa2-9ae5-4173-ac04-73fd111a06fb",
+      "farmId": "5c695a1e-fda9-4033-a1e1-e725f939816d",
+      "farmName": "Ludhiana South Field",
+      "farmerName": "Sardar Baldev Singh",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "areaAcres": 3.2,
+      "areaSqm": 12949.952000000001,
+      "healthScore": 84,
+      "soilN": 220,
+      "soilP": 18,
+      "soilK": 195,
+      "soilPh": 6.9,
+      "soilMoisture": 38,
+      "advisorySummary": "Soil moisture adequate, nitrogen supplementation recommended post-weeding",
+      "irrigationSchedule": "Standard irrigation",
+      "fertilizerRecommendation": "Balanced N-P-K",
+      "pestRisk": "Low",
+      "id": "report-mv9n8t31-5740",
+      "createdAt": "2026-10-15T14:38:20.221Z"
+    },
+    {
+      "farmName": "Ludhiana South Field",
+      "farmerName": "Sardar Baldev Singh",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "areaAcres": 3.2,
+      "healthScore": 84,
+      "soilN": 220,
+      "soilP": 18,
+      "soilK": 195,
+      "soilPh": 6.9,
+      "soilMoisture": 38,
+      "advisorySummary": "Soil moisture adequate, nitrogen supplementation recommended post-weeding",
+      "userId": "undefined",
+      "areaSqm": 10117,
+      "id": "report-mv9n8a04-fnb3",
+      "createdAt": "2026-10-15T14:37:55.492Z"
+    },
+    {
+      "userId": "c8d3b1f6-9f48-4be2-a268-cf614827a169",
+      "farmId": "63650932-c679-4cfc-a2cb-681abdce1ce4",
+      "farmName": "Nabha Golden Wheat Farm 1",
+      "farmerName": "BHOOTECH DB TEST",
+      "state": "Punjab",
+      "crop": "Wheat",
+      "areaAcres": 3.2,
+      "areaSqm": 12950,
+      "healthScore": 92,
+      "summary": "Comprehensive agronomic land appraisal for Nabha wheat parcel.",
+      "id": "report-muztswgc-8dot",
+      "createdAt": "2026-10-08T17:44:13.644Z"
+    },
+    {
+      "userId": "bfc1dc7f-5ffd-422e-a9ed-37e01c0f0cd6",
+      "farmName": "South Mustard Field",
+      "crop": "Mustard",
+      "state": "Punjab",
+      "areaAcres": 3.5,
+      "healthScore": 89,
+      "farmerName": "Farmer",
+      "areaSqm": 10117,
+      "id": "report-muwhpug3-zejw",
+      "createdAt": "2026-10-06T09:42:37.155Z"
+    },
+    {
+      "farmId": "906f8124-f4eb-49f2-a697-93144a21aa6b",
+      "farmName": "Khanna North Precision Plot",
+      "farmerName": "Sardar Gurpreet Singh",
+      "crop": "Wheat",
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "areaAcres": 5.2,
+      "healthScore": 88,
+      "soilN": 245,
+      "soilP": 19,
+      "soilK": 215,
+      "soilPh": 6.9,
+      "soilMoisture": 42,
+      "advisorySummary": "Canopy health is optimal with 88% vegetative index.",
+      "irrigationSchedule": "Provide 35mm evening irrigation in 48 hours.",
+      "fertilizerRecommendation": "Apply 25 kg/acre Urea with Neem coating.",
+      "pestRisk": "Low",
+      "userId": "224fca92-2544-46c3-ac1a-56c1083be145",
+      "areaSqm": 10117,
+      "id": "report-muwgkdw7-hmix",
+      "createdAt": "2026-10-06T09:10:22.807Z"
+    }
+  ]
+}

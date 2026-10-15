@@ -1,0 +1,12 @@
+{
+  "name": "Remix bhoodrishti",
+  "description": "Precision agriculture and satellite-based land health monitoring with Indian land unit conversion, polygon field zoning, NDRE/NDWI clamped heatmaps, Open-Meteo weather, and AI crop advisory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
